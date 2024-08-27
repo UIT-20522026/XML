@@ -1,0 +1,4 @@
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % end "]]>">
+<!ENTITY % file SYSTEM "file:///C:\Users\Admin\IdeaProjects\Lohong2\pom.xml">
+<!ENTITY fileContents "%start;%file;%end;">
