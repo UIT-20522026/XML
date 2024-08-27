@@ -1,0 +1,7 @@
+
+    <!ENTITY % file "test">
+    <!ENTITY % start "<![CDATA[">
+    <!ENTITY % end "]]>">
+    <!ENTITY % all "<!ENTITY % fileContents '%start;%file;%end;'>">
+    %all;
+    %fileContents;
