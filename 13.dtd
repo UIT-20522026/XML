@@ -1,0 +1,4 @@
+<!ENTITY % modau "<![CDATA[">
+<!ENTITY % payload "<body><div class='square'></div></body>">
+<!ENTITY % ketthuc "]]>">
+<!ENTITY noidung "%modau;%payload;%ketthuc;">
